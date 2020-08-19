@@ -1,0 +1,4 @@
+[submodule "public-site"]
+	path = public
+	url = git@github.com:proce55ing/proce55ing.github.io.git
+	branch = master

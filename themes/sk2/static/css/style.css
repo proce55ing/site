@@ -1,0 +1,60 @@
+html {
+    background-color: rgb(24, 26, 27);
+    color: rgb(152, 143, 130);
+    font-family: 'Open Sans', serif;
+
+    font-size: 1em;
+}
+
+.content {
+    margin: 30px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+  
+.item {
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: rgb(217, 214, 209);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header h1 {
+    font-size: 2em;
+    font-weight: 800;
+    padding: 0;
+}
+
+header h2 {
+    font-size: 1.5em;
+}
+
+header nav ul {
+    list-style: none;
+    width: 100%;
+}
+
+header nav ul li {
+    float : left;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    font-size:em;
+}
+
+h3 {
+    font-size: 1.25em;
+    margin-bottom: 10px;
+}
